@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Safety Issues Portal">ab8fe3e991f112107f441f0a4674fcb9</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Landing Page">738f27e937f11210adf9d1b5a301e256</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-11-11 09:46:22</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>b38f27e9b7f1121095209b4af0597c2a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">64b5d3e9917112107f441f0a4674fcbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">64b5d3e9917112107f441f0a4674fcbe</sys_scope>
+        <sys_update_name>sys_ux_page_property_b38f27e9b7f1121095209b4af0597c2a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-11-11 09:46:22</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_snc_safety.ab8fe3e991f112107f441f0a4674fcb9.route.chrome_header.738f27e937f11210adf9d1b5a301e256</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=b38f27e9b7f1121095209b4af0597c2a"/>
+</record_update>

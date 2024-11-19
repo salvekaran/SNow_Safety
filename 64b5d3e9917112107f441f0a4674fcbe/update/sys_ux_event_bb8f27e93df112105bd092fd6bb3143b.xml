@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_event">
+    <sys_ux_event action="INSERT_OR_UPDATE">
+        <description/>
+        <event_name>GLIDE_FORM_1_SET_MANDATORY_RELAY_338f27e9cef112100757ee2b7fe6d451</event_name>
+        <explicit_api_name/>
+        <interfaces/>
+        <label>Glide Form 1 SET_MANDATORY Relay (Tasks Default)</label>
+        <props>[{"name":"fieldName","fieldType":"string","label":"Field Name"},{"name":"mandatory","fieldType":"boolean","label":"Mandatory"}]</props>
+        <required_translations/>
+        <schema_version>1.0.0</schema_version>
+        <sys_class_name>sys_ux_event</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-11-11 09:46:22</sys_created_on>
+        <sys_id>bb8f27e93df112105bd092fd6bb3143b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Glide Form 1 SET_MANDATORY Relay (Tasks Default)</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">64b5d3e9917112107f441f0a4674fcbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">64b5d3e9917112107f441f0a4674fcbe</sys_scope>
+        <sys_update_name>sys_ux_event_bb8f27e93df112105bd092fd6bb3143b</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-11-11 09:46:22</sys_updated_on>
+    </sys_ux_event>
+    <sys_translated_text action="delete_multiple" query="documentkey=bb8f27e93df112105bd092fd6bb3143b"/>
+</record_update>

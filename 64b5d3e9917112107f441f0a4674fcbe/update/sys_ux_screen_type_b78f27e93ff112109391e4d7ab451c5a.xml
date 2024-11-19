@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>Attachments</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2024-11-11 09:46:24</sys_created_on>
+        <sys_id>b78f27e93ff112109391e4d7ab451c5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Attachments</sys_name>
+        <sys_package display_value="Safety" source="x_snc_safety">64b5d3e9917112107f441f0a4674fcbe</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Safety">64b5d3e9917112107f441f0a4674fcbe</sys_scope>
+        <sys_update_name>sys_ux_screen_type_b78f27e93ff112109391e4d7ab451c5a</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2024-11-11 09:46:24</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=b78f27e93ff112109391e4d7ab451c5a"/>
+</record_update>
